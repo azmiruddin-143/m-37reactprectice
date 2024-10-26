@@ -1,8 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#BPL Cricket Players
+###
+This Player Purchase Platform is a React web app where users can explore and virtually purchase cricket players from around the world within a set budget. Each player card displays details like name, price, and country. Users start with a default balance, which decreases with each purchase, simulating real-time budget management. Tailwind CSS ensures a responsive design, while React-Toastify provides alerts for successful buys, insufficient balance, or duplicate selections.
