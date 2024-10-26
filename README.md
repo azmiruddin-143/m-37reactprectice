@@ -7,3 +7,7 @@ This Player Purchase Platform is a React web app where users can explore and vir
 - Tailwind CSS
 - React-Toastify
 - GitHub and Netlify
+# 3 key features of my project
+1. Global Player Selection
+2. Real-time Budget Management
+3. Dynamic Notifications
