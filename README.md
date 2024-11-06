@@ -12,3 +12,18 @@ This Player Purchase Platform is a React web app where users can explore and vir
 2. Real-time Budget Management
 3. Dynamic Notifications
 https://bplcricketplayers.netlify.app/
+
+# List of React Fundamental concepts used in the project
+1. Components
+2. State Management
+3. Effect Hook
+4. Context API
+5. Local Storage for Persistence
+6. Event Handling
+7. Conditional Rendering
+8. Third-Party Libraries (react-toastify)
+9. React Router (if applicable)
+Component Lifecycle
+
+
+
